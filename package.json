@@ -1,0 +1,13 @@
+{
+  "name"        : "react-scotch",
+  "version"     : "0.0.0",
+  "description" : "Simple node version of the scotch react tutorial",
+  "main"        : "server.js",
+  "author"      : "Eoin Smith",
+  "dependencies": {
+    "serve-static":  "1.7.1",
+    "connect": "3.3.2",
+    "http-server": "0.7.2",
+    "express": "4.10.1"
+  }
+}
